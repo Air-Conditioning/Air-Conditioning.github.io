@@ -1,0 +1,33 @@
+
+
+body {
+    background-color: rgb(112, 234, 197);
+    color: rgb(221, 12, 12);
+}
+
+.navbar {
+    background-color: rgb(181, 231, 107);
+
+}
+
+
+a:link {
+    color: rgb(117, 39, 186);
+}
+
+a:visited {
+    color: rgb(117, 39, 186);
+}
+
+a:hover {
+    color: rgb(117, 39, 186);
+}
+
+
+h1 {
+    color: rgb(12, 38, 78);
+  }
+  
+  p {
+    color: rgb(0, 0, 0);
+  }
